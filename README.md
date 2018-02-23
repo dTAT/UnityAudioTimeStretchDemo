@@ -1,0 +1,2 @@
+# TimeStretchDemo
+Unityのタイムスケールに合わせて音声のタイムストレッチを行うデモ
